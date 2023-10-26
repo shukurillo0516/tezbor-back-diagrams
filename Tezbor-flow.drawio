@@ -1,169 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T08:31:05.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="KBJvi0TP-LECrVrTyOv-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T08:31:54.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TGwg--w-3wB8pCoAjaaU" version="22.0.8" type="github">
   <diagram name="Page-1" id="mYcXbnIYQ5I5ZwNa_0Os">
     <mxGraphModel dx="2950" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER CREATED&lt;/font&gt; &lt;font style=&quot;font-size: 16px;&quot;&gt;(PERFORMED BY CLIENT)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="110" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="180" as="sourcePoint" />
-            <mxPoint x="425" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER ACTIVATED&lt;/font&gt; &lt;font style=&quot;font-size: 16px;&quot;&gt;(PERFORMED BY CLIENT)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="280" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVERED TO AGENT&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="600" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="350" as="sourcePoint" />
-            <mxPoint x="425" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="425" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="510" as="sourcePoint" />
-            <mxPoint x="424" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="424" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="670" as="sourcePoint" />
-            <mxPoint x="425" y="750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="425" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="NTBNa6pQazAFaI0eDy-O-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="470" as="sourcePoint" />
-            <mxPoint x="450" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER IS COLLECTED BY TEZBOR WORKER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="440" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER IS COLLECTED BY TEZBOR WORKER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="760" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-17" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVER TO THE END USER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="920" width="255" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NTBNa6pQazAFaI0eDy-O-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="830" as="sourcePoint" />
-            <mxPoint x="424" y="910" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="424" y="910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-2" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER CREATED&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 1 (DRAFT)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-2" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER CREATED&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 1 (DRAFT)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="90" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-510" y="130" as="sourcePoint" />
             <mxPoint x="-620" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-4" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER CANCELLED&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 1 (CANCCELLED BY CUSTOMER)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-4" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER CANCELLED&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 1 (CANCCELLED BY CUSTOMER)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="230" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-7" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER ACTIVATED&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 4 (NEW)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-7" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER ACTIVATED&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 4 (NEW)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;(PERFORMED BY CLIENT)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="265" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="190" as="sourcePoint" />
             <mxPoint x="-390" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-9" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-9" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="440" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="360" as="sourcePoint" />
             <mxPoint x="-390.34" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-11" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-11" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="620" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="540" as="sourcePoint" />
             <mxPoint x="-390.34" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-13" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVERED TO THE END USER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 32&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;EXECUTOR_DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-13" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVERED TO THE END USER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 32&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;EXECUTOR_DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="540" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="480" as="sourcePoint" />
             <mxPoint x="-100" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;DELIVERY CONFIRMED BY ADMIN&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 256&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;DELIVERY CONFIRMED BY ADMIN&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 256&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="720" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-95.33999999999997" y="640" as="sourcePoint" />
             <mxPoint x="-95.33999999999997" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER RECEIVED BY AGENT&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS:&amp;nbsp;&lt;/font&gt;64&lt;font style=&quot;font-size: 17px;&quot;&gt; (&lt;/font&gt;AGENT_RECEIVED &lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-18" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER RECEIVED BY AGENT&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS:&amp;nbsp;&lt;/font&gt;64&lt;font style=&quot;font-size: 17px;&quot;&gt; (&lt;/font&gt;AGENT_RECEIVED &lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="800" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="720" as="sourcePoint" />
             <mxPoint x="-390.34" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-20" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-20" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER COLLECTED BY TEZBOR WORKER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 16 (PICKUP)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="980" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="1080" as="sourcePoint" />
             <mxPoint x="-390.34" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="900" as="sourcePoint" />
             <mxPoint x="-390.34" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-24" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVERED TO THE END USER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 32&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;EXECUTOR_DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-24" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ORDER DELIVERED TO THE END USER&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 32&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;EXECUTOR_DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-495" y="1160" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;DELIVERY CONFIRMED BY ADMIN&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 256&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;DELIVERY CONFIRMED BY ADMIN&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;STATUS: 256&lt;/font&gt; &lt;font style=&quot;font-size: 17px;&quot;&gt;(&lt;/font&gt;DONE&lt;font style=&quot;font-size: 17px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-495" y="1340" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390.34" y="1260" as="sourcePoint" />
             <mxPoint x="-390.34" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSrYBzjuCIPvVZRrWQBf-27" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;TEZBOR ORDER FLOW&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eSrYBzjuCIPvVZRrWQBf-27" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;TEZBOR ORDER FLOW&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-570" y="8" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
